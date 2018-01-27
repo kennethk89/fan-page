@@ -1,0 +1,81 @@
+/* navbar styles */
+.bg-custom {
+background-color: rgb(37, 37, 37);
+}
+
+/* header style */
+.lead {
+    color: rgb(180, 180, 180);
+    position: relative;
+    top: 280px;
+    text-align: right;
+}
+
+.display-4 {
+    color: rgb(255, 255, 255);
+    font-style: bold;
+    text-align: center;
+    position: relative;
+    top: 140px;
+}
+
+#nameStyle {
+    font-size: 0.7rem;
+    font-style: italic;
+    text-decoration: underline;
+}
+
+.jumbotron-fluid {
+    background-image: url(foofightersHead.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    /* min-width: 100%; */
+    height: 500px;
+    opacity: 0.95;
+}
+
+.img-fluid {
+    max-width: 100%;
+    height: auto;
+}
+
+/* content style */
+.row{
+    color:white;
+    padding: 5px;
+}
+
+body{
+    background-color: rgb(37, 37, 37);
+    color:white;
+}
+
+/* music page */
+.img-responsive {
+    padding-top: 10px;
+    max-width: 100%;
+    align-items: center;
+    height: auto;
+    
+}
+
+#roll {
+    display: none;
+}
+
+
+/* tour page */
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    margin-bottom: 0px;
+}
+
+.footerTitle {
+    margin-bottom: 15px;
+}
+
+.form-group {
+    margin: 0px 10px 0px 0px;
+}
